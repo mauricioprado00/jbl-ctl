@@ -152,3 +152,7 @@ which looks like a status/refusal; the tool treats it as an error.
 
 Snoop logs and bug reports contain personal data (contacts, accounts, pairing
 keys); don't publish them.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
